@@ -9,7 +9,6 @@ import "bootstrap/dist/js/bootstrap.min.js";
 function App() {
   return(<div className = "App">
           <NavBar></NavBar>
-          <h1>Hello world!</h1>
           <Catalog></Catalog>
           <Footer></Footer>
         </div>);

@@ -18,7 +18,6 @@ const Catalog = () => {
         });
 
         return(<div className="catalog">
-                <h1>This is our catalog</h1>
                 <h2>We have {products.length} products!</h2>
                 {
                         products.map(

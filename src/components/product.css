@@ -1,11 +1,11 @@
 .product{
     border: 1px solid black;
     display: inline-block;
-    margin: 5px;
+    margin: 30px;
     padding: 5px;
     color: darkcyan;
     border-radius: 5px;
-    box-shadow: 5px 5px rgb(223, 223, 233)
+    box-shadow: 5px 5px rgb(223, 223, 233);
 }
 
 .product .price, .product .total{
